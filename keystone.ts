@@ -15,8 +15,5 @@ export default withAuth(
     },
     lists,
     session,
-    graphql: {
-      playground: true,
-    },
   })
 );
